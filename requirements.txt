@@ -1,0 +1,16 @@
+pandas
+tabulate
+numpy
+scipy
+matplotlib
+aiohttp
+asyncio
+nest_asyncio
+rapidfuzz
+requests
+scikit-learn
+seaborn
+xgboost
+joblib
+shap
+scipy
