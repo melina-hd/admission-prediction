@@ -7,9 +7,8 @@ accompanying research paper. All figures, tables, and results reported in the
 paper are generated directly from the notebooks and scripts provided here.
 
 The final versions of the figures and experimental results are available in the
-corresponding zenodo paper:
+corresponding Zenodo paper: \href{https://zenodo.org/records/18702298}{https://zenodo.org/records/18702298}
 
-🔗 https://zenodo.org/records/18702298?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjY3YjI4YWM1LTMwMjktNDJlMS05NmNhLWYwZjZhNTEyOTEzNyIsImRhdGEiOnt9LCJyYW5kb20iOiJjNDhlNmI2MjY3N2U3YTc3MmY3ZGZhMjJhYTUzNmRmNCJ9.Da3Ja6IQ0DKSXywdGuWlmYHO6uWg7TCMKL3ygyaUKky55rJcN_yOEcUyx2ASF01gD4s82zlQwPKXYrvXg6yd2w
 
 ---
 
